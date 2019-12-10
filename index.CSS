@@ -1,0 +1,40 @@
+
+    
+h1{
+    color:CornflowerBlue
+  }
+  h2{
+    color:MediumSlateBlue
+  }
+  ul {
+    list-style-type: square;
+  }
+  .Special {
+    color:MediumSlateBlue
+  }
+  .Dot{
+    color:MediumVioletRed
+  }
+  .slash{  
+    color: Chocolate
+  }
+  .Backslash {
+   color:Orange 
+  }
+  .small {
+    font-size: 13px;
+  }
+  img {
+    border-style: dashed;
+    border-width: 7px;
+    border-color: DarkRed;
+  }
+  .blue {
+    color: MediumVioletRed;
+  }
+  .colon {
+    color:MediumVioletRed;
+  }
+  .semi {
+    color:Chocolate;
+  }
